@@ -12,7 +12,7 @@ public class ParameterSample {
 	 }
 	public static void main(String args[])
 	{
-	ParameterSample.print("Devu",9);
+	ParameterSample.print("Devi",9);
 	add(5,7);
 	}
 
